@@ -293,3 +293,4 @@ C:\Users\Admin\Documents\GitHub\SBA_IIHT\server\ProjectManager\ProjectManager\ob
 C:\Users\Admin\Documents\GitHub\SBA_IIHT\server\ProjectManager\ProjectManager\obj\Debug\ProjectManager.csproj.CopyComplete
 C:\Users\Admin\Documents\GitHub\SBA_IIHT\server\ProjectManager\ProjectManager\obj\Debug\ProjectManager.dll
 C:\Users\Admin\Documents\GitHub\SBA_IIHT\server\ProjectManager\ProjectManager\obj\Debug\ProjectManager.pdb
+C:\Users\Admin\Documents\GitHub\SBA_IIHT\server\ProjectManager\ProjectManager\obj\Debug\ProjectManager.csprojAssemblyReference.cache
