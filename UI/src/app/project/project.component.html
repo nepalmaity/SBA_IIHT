@@ -50,9 +50,9 @@
           </div>
         </div>
         <div class=" pull-right">
-          <div class="col-sm-12">
+          <div class="col-sm-12 buttonStyle">
             <button class="btn btn-primary" (click)="addProject()">{{buttonName}}</button>
-            <button class="btn btn-default" style="margin-left:20px;" (click)="resetProject()">Reset</button>
+            <button class="btn btn-light" style="margin-left:20px;" (click)="resetProject()">Reset</button>
           </div>
         </div>
       </div>
@@ -114,7 +114,7 @@
           <div style="padding:10px 0">Priority</div>
           <label style="padding:10px 0">{{project.priority}}</label>
         </div>
-        <div class="view-buttons">
+        <div class="view-buttons buttonStyle">
           <button class="btn btn-primary" (click)="editProject(project)">Edit</button>
           <button class="btn btn-danger" (click)="deleteProject(project)">Suspend</button>
         </div>

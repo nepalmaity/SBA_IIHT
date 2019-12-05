@@ -1,0 +1,12 @@
+.buttonStyle > button{
+    height: 30px;
+    width: 100px;
+}
+.panel-heading{
+    background-color: #224e41;
+    border-color: #224e41;
+}
+
+.panel-primary {
+    border-color: #224e41;
+}

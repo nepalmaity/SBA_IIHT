@@ -34,3 +34,17 @@ div.view-buttons {
     height: 20px;
     margin: 0 10px 0 -30px;
 }
+
+.panel-heading{
+    background-color: #224e41;
+    border-color: #224e41;
+}
+
+.panel-primary {
+    border-color: #224e41;
+}
+
+.buttonStyle > button{
+    height: 30px;
+    width: 100px;
+}

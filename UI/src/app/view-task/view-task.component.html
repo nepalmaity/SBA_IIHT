@@ -7,7 +7,7 @@
             <strong>Project :</strong>
             <input type="text" class="form-control" style="width:60%;display:inline-block;margin-left:15px" id="project" [(ngModel)]="selectedProjName"
               disabled>
-            <button class="btn btn-primary" style="margin-left:15px;" (click)="openModal(projModal)">Search</button>
+            <button class="btn btn-primary buttonStyle" style="margin-left:15px;height: 30px;width: 100px;" (click)="openModal(projModal)">Search</button>
   
           </div>
           <div class="col-sm-6 text-right" style="padding-right:0; padding-left: 0">
@@ -57,7 +57,7 @@
               <td>{{task.priority}}</td>
               <td>{{task.start_Date|date:'shortDate'}}</td>
               <td>{{task.end_Date|date:'shortDate'}}</td>
-              <td>
+              <td class= "buttonStyle">
                 <button *ngIf="task.status===0" class="btn btn-primary" (click)="editTask(task)">Edit</button>
                 <button *ngIf="task.status===0" class="btn btn-danger" style="margin-left:15px;" (click)="deleteTask(task)">End Task</button>
               </td>
