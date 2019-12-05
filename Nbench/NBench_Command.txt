@@ -1,0 +1,17 @@
+C:\Windows\System32>"C:\Users\Admin\Documents\GitHub\SBA_IIHT\server\ProjectManager\packages\NBench.Runner.1.2.2\tools\net452\NBench.Runner" "C:\Users\Admin\Documents\GitHub\SBA_IIHT\server\ProjectManager\PerformanceTests\bin\Debug\PerformanceTests.dll"
+Executing Benchmarks in C:\Users\Admin\Documents\GitHub\SBA_IIHT\server\ProjectManager\PerformanceTests\bin\Debug\PerformanceTests.dll
+------------ STARTING PerformanceTests.TaskPerfTests+PerformanceTests ----------
+--------------- BEGIN RUN ---------------
+Elapsed: 00:00:00.9993731
+Elapsed Time - ms: 999.00 ,ms: /s 999.63 , ns / ms: 10,00,373.47
+--------------- END RUN ---------------
+
+--------------- RESULTS: PerformanceTests.TaskPerfTests+PerformanceTests ---------------
+--------------- DATA ---------------
+Elapsed Time: Max: 999.00 ms, Average: 999.00 ms, Min: 999.00 ms, StdDev: 0.00 ms
+Elapsed Time: Max / s: 999.63 ms, Average / s: 999.63 ms, Min / s: 999.63 ms, StdDev / s: 0.00 ms
+
+--------------- ASSERTIONS ---------------
+[PASS] Expected Elapsed Time to must be less than or equal to 5,000.00 ms; actual value was 999.00 ms.
+
+------------ FINISHED PerformanceTests.TaskPerfTests+PerformanceTests ----------
