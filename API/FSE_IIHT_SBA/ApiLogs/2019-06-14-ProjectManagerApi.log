@@ -1,0 +1,80 @@
+2019-06-14 06:49:39.3800|INFO|FSE_SBA.Utils.LoggingUtility|Operation Result Format: JSON
+Request ID: 80000004-0001-fd00-b63f-84710c7967bb
+Method: GET
+URL: http://localhost:49461/api/user
+Controller : FSE_SBA.Controllers.UserController
+Action : GetUser
+Action Parameters : System.Web.Http.Tracing.ITraceWriterExtensions+<>c__DisplayClass14_0
+
+2019-06-14 06:49:39.5870|INFO|FSE_SBA.Utils.LoggingUtility|Operation Result Format: JSON
+Request ID: 80000004-0001-fd00-b63f-84710c7967bb
+Method: GET
+URL: http://localhost:49461/api/user
+Controller : FSE_SBA.Controllers.UserController
+Action : GetUser
+Action Parameters : System.Web.Http.Tracing.ITraceWriterExtensions+<>c__DisplayClass14_0
+
+2019-06-14 06:52:01.1713|INFO|FSE_SBA.Utils.LoggingUtility|Operation Result Format: JSON
+Request ID: 80000003-0000-f900-b63f-84710c7967bb
+Method: GET
+URL: http://localhost:49461/api/user
+Controller : FSE_SBA.Controllers.UserController
+Action : GetUser
+Action Parameters : System.Web.Http.Tracing.ITraceWriterExtensions+<>c__DisplayClass14_0
+
+2019-06-14 06:52:01.1713|INFO|FSE_SBA.Utils.LoggingUtility|Operation Result Format: JSON
+Request ID: 80000003-0000-f900-b63f-84710c7967bb
+Method: GET
+URL: http://localhost:49461/api/user
+Controller : FSE_SBA.Controllers.UserController
+Action : GetUser
+Action Parameters : System.Web.Http.Tracing.ITraceWriterExtensions+<>c__DisplayClass14_0
+
+2019-06-14 06:54:53.9721|INFO|FSE_SBA.Utils.LoggingUtility|Operation Result Format: JSON
+Request ID: 80000005-0000-f900-b63f-84710c7967bb
+Method: GET
+URL: http://localhost:49461/api/user
+Controller : FSE_SBA.Controllers.UserController
+Action : GetUser
+Action Parameters : System.Web.Http.Tracing.ITraceWriterExtensions+<>c__DisplayClass14_0
+
+2019-06-14 06:54:53.9721|INFO|FSE_SBA.Utils.LoggingUtility|Operation Result Format: JSON
+Request ID: 80000005-0000-f900-b63f-84710c7967bb
+Method: GET
+URL: http://localhost:49461/api/user
+Controller : FSE_SBA.Controllers.UserController
+Action : GetUser
+Action Parameters : System.Web.Http.Tracing.ITraceWriterExtensions+<>c__DisplayClass14_0
+
+2019-06-14 22:41:19.9743|INFO|FSE_SBA.Utils.LoggingUtility|Operation Result Format: JSON
+Request ID: 80000008-0000-f900-b63f-84710c7967bb
+Method: POST
+URL: http://localhost:49461/api/user/update
+Controller : FSE_SBA.Controllers.UserController
+Action : UpdateUserDetails
+Action Parameters : System.Web.Http.Tracing.ITraceWriterExtensions+<>c__DisplayClass14_0
+
+2019-06-14 22:41:19.9743|INFO|FSE_SBA.Utils.LoggingUtility|Operation Result Format: JSON
+Request ID: 80000008-0000-f900-b63f-84710c7967bb
+Method: POST
+URL: http://localhost:49461/api/user/update
+Controller : FSE_SBA.Controllers.UserController
+Action : UpdateUserDetails
+Action Parameters : System.Web.Http.Tracing.ITraceWriterExtensions+<>c__DisplayClass14_0
+
+2019-06-14 22:41:21.4151|INFO|FSE_SBA.Utils.LoggingUtility|Operation Result Format: JSON
+Request ID: 80000009-0000-f900-b63f-84710c7967bb
+Method: GET
+URL: http://localhost:49461/api/user
+Controller : FSE_SBA.Controllers.UserController
+Action : GetUser
+Action Parameters : System.Web.Http.Tracing.ITraceWriterExtensions+<>c__DisplayClass14_0
+
+2019-06-14 22:41:21.4151|INFO|FSE_SBA.Utils.LoggingUtility|Operation Result Format: JSON
+Request ID: 80000009-0000-f900-b63f-84710c7967bb
+Method: GET
+URL: http://localhost:49461/api/user
+Controller : FSE_SBA.Controllers.UserController
+Action : GetUser
+Action Parameters : System.Web.Http.Tracing.ITraceWriterExtensions+<>c__DisplayClass14_0
+
